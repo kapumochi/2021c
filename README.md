@@ -17,4 +17,5 @@ int main ()
 ```
 
 # 筆記
+C/C++去小數位取整、向下取整、向上取整與四捨五入
 https://www.itread01.com/content/1543368556.html
