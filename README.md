@@ -15,3 +15,6 @@ int main ()
     printf("Hello World\n");
 }
 ```
+
+# 筆記
+https://www.itread01.com/content/1543368556.html
